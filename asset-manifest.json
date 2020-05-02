@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smartbee-frontend-interview/static/css/main.5f361e03.chunk.css",
+    "main.js": "/smartbee-frontend-interview/static/js/main.d136199a.chunk.js",
+    "main.js.map": "/smartbee-frontend-interview/static/js/main.d136199a.chunk.js.map",
+    "runtime-main.js": "/smartbee-frontend-interview/static/js/runtime-main.9e6e7296.js",
+    "runtime-main.js.map": "/smartbee-frontend-interview/static/js/runtime-main.9e6e7296.js.map",
+    "static/js/2.5ffc4f95.chunk.js": "/smartbee-frontend-interview/static/js/2.5ffc4f95.chunk.js",
+    "static/js/2.5ffc4f95.chunk.js.map": "/smartbee-frontend-interview/static/js/2.5ffc4f95.chunk.js.map",
+    "index.html": "/smartbee-frontend-interview/index.html",
+    "precache-manifest.5bd36b29d8ae9b7530b666072739cca0.js": "/smartbee-frontend-interview/precache-manifest.5bd36b29d8ae9b7530b666072739cca0.js",
+    "service-worker.js": "/smartbee-frontend-interview/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/smartbee-frontend-interview/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5ffc4f95.chunk.js.LICENSE.txt": "/smartbee-frontend-interview/static/js/2.5ffc4f95.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/smartbee-frontend-interview/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e6e7296.js",
+    "static/js/2.5ffc4f95.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d136199a.chunk.js"
+  ]
+}
